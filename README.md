@@ -1,24 +1,13 @@
 # blevue
 
 ## Project setup
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Some interesting reading for Bluetooth
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [Start Building with Web Bluetooth and Progressive Web Apps](https://medium.com/@urish/start-building-with-web-bluetooth-and-progressive-web-apps-6534835959a6)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
